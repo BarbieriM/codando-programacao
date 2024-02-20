@@ -1,0 +1,1 @@
+Crie um programa que peça ao usuário um número, e retorne todos os múltiplos do número escolhido pelo usuário de 1 a 10

@@ -1,0 +1,1 @@
+Escreva um programa que leia os catetos oposto e adjacente de um triângulo e calcule a hipotenusa

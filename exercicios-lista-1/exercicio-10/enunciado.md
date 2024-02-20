@@ -1,0 +1,1 @@
+Use a estrutura de loop for para que o programa retorne todos números pares de 0 até um número especificado por terminal
