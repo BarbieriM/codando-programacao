@@ -1,0 +1,1 @@
+Crie um script que receba 6 números e retorne quais são os números pares e quais são os ímpares

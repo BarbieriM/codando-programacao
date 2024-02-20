@@ -1,0 +1,1 @@
+Use a estrutura de loop para que o programa retorne todos os múltiplos de 6 de 0 a 500.
